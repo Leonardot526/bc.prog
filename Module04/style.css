@@ -11,7 +11,7 @@ h1 {
 body {
   width: 90%;
   margin: 0 auto;
-  background-image: url(Image/milky.png);
+  background-image: url(milky.png);
 }
 #content {
   overflow: auto;}
@@ -27,12 +27,12 @@ li {
   display: inline;
   padding: 0.5em;}
 #nav, #footer {
-  background-image: url(Image/leather.png);
+  background-image: url(leather.png);
   padding: 0.5em 0;}
 #feature, .article {
   height: 10em;
   margin-bottom: 1em;
-  background-image: url(Image/leather.png);}
+  background-image: url(leather.png);}
 img { 
   height: 115px;
   width:300px ;
